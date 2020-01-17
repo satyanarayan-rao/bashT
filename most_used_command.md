@@ -14,5 +14,6 @@
 - Using this command first ask if primers under your name exist in this [file](./data/primer.fasta).
 - From this [file](./data/primer.fasta) print only the fasta primer sequence that belongs to they/you only.
 + `awk`
-- 
+- Find what all replicates have values less than 1.5 in condition 1
+- Find average values of observations in condition 1, 2, and 3 respectively
 + `sed`
