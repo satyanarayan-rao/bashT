@@ -18,7 +18,7 @@ output of a command becomes input of the second if you have a pipe between them
 NOTE: If you want to use standard input as a file you can use `-` as the file name 
 
 
-## cat
+## cat and paste
 
 Alice made a mistake and put the name of famous Die Hard movie actor full name
 in three different files having first middle and last names respectively. You
@@ -26,4 +26,18 @@ are given only two commands `cat` and `paste` to use and print his complete
 name with following constraints. 
 
 - use only `paste` to complete the name
-- Use cat to print middle name fist and place it between first and last 
+- Use cat to print middle name fist and place it between first and last using
+  both `cat` and `paste` command
+
+## Generate non-overlapping intervals
+
+- Generate non-overlapping interval between `1` and `100` with a period of 10.
+
+You output should look like the following
+
+1 10
+11 20
+21 30 
+...
+91 100
+
