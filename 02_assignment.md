@@ -1,0 +1,29 @@
+# Assignments for most used commands
+
+## Few basics before doing the assignment
+
+Linux/Unix has three standard Input/Output(I/O) files identified by: 
+
+- `0` : Standard Input (stdin)
+- `1` : Standard Output (strout)
+- `2` : Standard Error (stderr)
+
+When you type `ls` and hit enter on terminal, what happens is that `ls` command
+does its job and return the output to Standard Output (1), and it can just be
+seen on the terminal. Terminal also act as Standard Error (2). 
+
+There is a very important file known as `pipe` (|) and literally it means
+output of a command becomes input of the second if you have a pipe between them
+
+NOTE: If you want to use standard input as a file you can use `-` as the file name 
+
+
+## cat
+
+Alice made a mistake and put the name of famous Die Hard movie actor full name
+in three different files having first middle and last names respectively. You
+are given only two commands `cat` and `paste` to use and print his complete
+name with following constraints. 
+
+- use only `paste` to complete the name
+- Use cat to print middle name fist and place it between first and last 
