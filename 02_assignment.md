@@ -33,12 +33,16 @@ name with following constraints.
 
 - Generate non-overlapping interval between `1` and `100` with a period of 10.
 
-You output should look like the following
+You output should look like the following:
 
 1 10
+
 11 20
+
 21 30 
+
 ...
+
 91 100
 
 ## Get selected columns from file by column names
