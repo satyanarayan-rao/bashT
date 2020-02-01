@@ -20,14 +20,15 @@ NOTE: If you want to use standard input as a file you can use `-` as the file na
 
 ## cat and paste
 
-Alice made a mistake and put the name of famous Die Hard movie actor full name
-in three different files having first middle and last names respectively. You
+Alice made a mistake and put the name of famous **Die Hard** movie actor full name
+in three different files having first middle and last names respectively (see
+`data/first_name.txt`, `data/middle_name.txt`, and `data/last_name.txt`). You
 are given only two commands `cat` and `paste` to use and print his complete
 name with following constraints. 
 
-- use only `paste` to complete the name
+- Use only `paste` to complete the name
 - Use cat to print middle name fist and place it between first and last using
-  both `cat` and `paste` command
+  both `cat` and `paste` command.
 
 ## Generate non-overlapping intervals
 
