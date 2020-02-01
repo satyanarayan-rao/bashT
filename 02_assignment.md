@@ -46,7 +46,7 @@ You output should look like the following:
 ## Get selected columns from file by column names
 
 Susan was creating a tabular data with patient names as columns and observation
-under different conditions and she ended up with this _t_ab _s_eparated _v_alues (`tsv`)
+under different conditions and she ended up with this *t*ab *s*eparated *v*alues (`tsv`)
 file ([patient_data.tsv](./data/patient_data.tsv)). Your job is to get extract columns for:
 
 - Patient1 
