@@ -24,6 +24,6 @@ Use the file `data/experiment_results.tsv` and do the following
 
 ## Grep
 - Using this command first ask if primers under your name exist in this [file](./data/primer.fasta)
-- From this [file](./data/primer.fasta) print only the fasta primer sequence that belongs to they/you only
+- From this [file](./data/primer.fasta) print only the fasta primer sequence that belongs to you only
 - Find on what lines your names are there
 
